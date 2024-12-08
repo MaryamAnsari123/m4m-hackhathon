@@ -4,7 +4,7 @@ import React from 'react'
 const Comp1 = () => {
   return (
     <div className='justify-items-center'>
-      <div className='w-full h-[476px] mt-6 bg-gray-200'>
+      <div className='w-full h-[476px] mt-6'>
 
             <h3 className='text-center text-2xl pt-[40px]'>
             What makes our brand different 
